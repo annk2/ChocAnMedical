@@ -1,0 +1,3 @@
+123456789;John;Doe;123 Maple Street;Portland;OR;97233;johndoe@gmail.com;VALID;1;99999.99
+987654321;Jane;Dough;321 Marble Ave;Seattle;WA;98101;janedough@yahoo.com;VALID;1;0.00
+971594872;Andy;Truong;8 SE 193rd Ave;Portland;OR;97233;andytuantruong@gmail.com;VALID;1;250

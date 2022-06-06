@@ -1,0 +1,13 @@
+127320698;Wahn;Lou;700 Medical Ave;Portland;OR;97205;wahnlou@chocann.com;200.25;4
+302102243;Perry;Lingsten;199 Office St;Seattle;WA;98101;perryling@chocann.com;25.75;1
+423618074;Luisa;Frank;199 Office St;Seattle;WA;98101;luisafrank@chocann.com;8.7;1
+455303945;Justin;Timberlake;REMOTE ONLY;REMOTE ONLY;RO;0;rodgerbanget@chocann.com;2.26;2
+457364236;Hugh;Juhn;REMOTE ONLY;REMOTE ONLY;RO;0;perryling@chocann.com;25.75;1
+469253307;Nicolette;Jackson;700 Medical Ave;Portland;OR;97205;nicolettejack@chocann.com;700.85;4
+531209765;Luke;Skywalker;REMOTE ONLY;REMOTE ONLY;RO;0;luisafrank@chocann.com;8.7;1
+612375615;Kristen;Lewis;199 Office St;Seattle;WA;98101;kristenlewis@chocann.com;0;0
+735853633;Lisa;Hutchinson;199 Office St;Seattle;WA;98101;lisahutch@chocann.com;90.3;6
+763548922;Cody;Barkett;700 Medical Ave;Portland;OR;97205;codybarkett@chocann.com;80.45;1
+789935566;Bridgett;Summers;700 Medical Ave;Portland;OR;97205;bridgettsummers@chocann.com;500.23;2
+833536124;Rodger;Banget;199 Office St;Seattle;WA;98101;rodgerbanget@chocann.com;0;0
+983542012;Lacy;Stevens;REMOTE ONLY;REMOTE ONLY;RO;0;bridgettsummers@chocann.com;500.23;2

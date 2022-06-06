@@ -1,0 +1,10 @@
+Dietitian Exam;100010;100
+Group Counseling;100020;100
+Exercise Specialist;100030;150
+Complete Blood Count;100040;150
+Internist Exam;100050;175
+Meal Plan Management;100060;125
+Glucose Management;100070;150
+Addiction Counseling;100080;150
+Comprehensive Exam;100090;150
+Nutritionist Exam;100100;150
